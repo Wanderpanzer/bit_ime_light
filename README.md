@@ -1,16 +1,19 @@
-## IMEの状態をmicro:bitのLEDで表示する
+## IMEの状態をmicrobitのLEDで表示する
 
 シリアルポートに接続したmicro:bit(V2)にIMEのステータスを表示する。
 
-WindowsPC側アプリはこちらのものを使用させていただき、子機の側がmicro:bit V2に替わった感じです。
+WindowsPC側アプリはこちらのものを使用させていただき、表示器側をmicro:bit V2に替えたものです。
 [https://github.com/kaz-mac/m5ime_light?tab=readme-ov-file](https://github.com/kaz-mac/m5ime_light?tab=readme-ov-file)
 
-V2専用機能を使用している箇所あり（ロゴタップでスリープモード）
+V2専用機能を使用している箇所あり（ロゴタップ検出・スリープモード）
+
 
 ## 
 
 
 > Open this page at [https://wanderpanzer.github.io/bit_ime_light/](https://wanderpanzer.github.io/bit_ime_light/)
+
+##
 
 ## Use as Extension
 
